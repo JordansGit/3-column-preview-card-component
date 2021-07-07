@@ -11,8 +11,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,9 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://jordansgit.github.io/3-column-preview-card-component/)
-
-## My process
+- Live Site URL: [https://jordansgit.github.io/3-column-preview-card-component/](https://jordansgit.github.io/3-column-preview-card-component/)
 
 ### Built with
 
