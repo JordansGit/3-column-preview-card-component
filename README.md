@@ -10,7 +10,7 @@ Difficulty: Level 1 (newbie)
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size (note: this project has 2 sizes of rwd, mobile (375px) and desktop (1440px))
+- View the optimal layout depending on their device's screen size (note: only 2 design sizes were provided: mobile (375px) and desktop (1440px))
 - See hover states for interactive elements
 
 ### Links
