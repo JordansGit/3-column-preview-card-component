@@ -4,15 +4,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 Difficulty: Level 1 (newbie)
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-
 ## Overview
 
 ### The challenge
@@ -21,9 +12,6 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size (note: this project has 2 sizes of rwd, mobile (375px) and desktop (1440px))
 - See hover states for interactive elements
-
-### Screenshot
-![Screenshot of this project](./finished-screenshot.jpg)
 
 ### Links
 
@@ -34,3 +22,5 @@ Users should be able to:
 - HTML5
 - CSS 
 
+### Screenshot
+![Screenshot of this project](./finished-screenshot.jpg)
