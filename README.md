@@ -21,5 +21,5 @@ Users should be able to:
 - CSS 
 
 ### Screenshot
-![Screenshot of this project](./finished-screenshot.jpg)
+![Screenshot of this project](./)
 
