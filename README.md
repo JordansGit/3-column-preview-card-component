@@ -20,7 +20,7 @@ Users should be able to:
 ### Built with
 
 - HTML5
-- CSS 
+- CSS (Fully Responsive)
 
 ### Screenshot
 ![Screenshot of this project](./finished-screenshot.jpg)
