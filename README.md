@@ -28,8 +28,7 @@ Desktop
 Tablet
 ![Tablet Screenshot](./screenshots/tablet-screenshot.png)
 Mobile
-![Mobile Screenshot](./screenshots/mobile1-screenshot.png)
-![Mobile Screenshot](./screenshots/mobile2-screenshot.png)
-![Mobile Screenshot](./screenshots/mobile3-screenshot.png)
+![Mobile Screenshot](./screenshots/mobile-screenshot.png)
+
 
 
