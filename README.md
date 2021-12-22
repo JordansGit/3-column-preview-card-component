@@ -20,8 +20,16 @@ Users should be able to:
 ### Built with
 
 - HTML5
-- CSS 
+- CSS (Fully Responsive)
 
 ### Screenshot
-![Screenshot of this project](./finished-screenshot.jpg)
+Desktop
+![Desktop Screenshot](./screenshots/desktop-screenshot.jpg)
+Tablet
+![Tablet Screenshot](./screenshots/tablet-screenshot.png)
+Mobile
+![Mobile Screenshot](./screenshots/mobile1-screenshot.png)
+![Mobile Screenshot](./screenshots/mobile2-screenshot.png)
+![Mobile Screenshot](./screenshots/mobile3-screenshot.png)
+
 
